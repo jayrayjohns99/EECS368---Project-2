@@ -1,0 +1,11 @@
+The following sources were used when creating this game.
+
+-- https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ freeCodeCamp.org YouTube channel to help with general game design concepts.
+
+-- https://www.w3schools.com/html/html_css.asp for style.css info and basics.
+
+-- https://github.com/SeanCBlue652/EECS448-battleship EECS 448 group project, referenced for style and button help.
+
+-- https://tetris.fandom.com/wiki/Tetris_Guideline for common Tetris styling and piece rules.
+
+-- https://www.codeexplained.org/2018/08/create-tetris-game-using-javascript.html for grid help when it comes to pieces in the array.
